@@ -61,10 +61,4 @@ This is a simple WPF-based PhoneBook application that allows users to manage con
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Newtonsoft.Json for JSON serialization and deserialization.
